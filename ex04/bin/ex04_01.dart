@@ -13,5 +13,5 @@ var i = g + h;
 var j = h + i;
 
 main(){
-print('La suite de Fibonacci pour les 10 premiers termes est $a, $b, $c, $d, $e, $f, $g, $h, $i, $j');
+  print('La suite de Fibonacci pour les 10 premiers termes est $a, $b, $c, $d, $e, $f, $g, $h, $i, $j');
 }

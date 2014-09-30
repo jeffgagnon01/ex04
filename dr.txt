@@ -1,1 +1,21 @@
 ex04
+
+16/20
+
+structure des répertoires n'est pas correcte
+
+-1 ex04
+  ex04
+  
+-->
+
+ex04
+  
+-2 où sont les fonctions autres que main?
+
+3.
+Cela fait 9289 jours que je suis né
+Cela fait 222958 heures que je suis né
+Cela fait 25.45205479452055 années que je suis né
+
+-1 années, mois, jours
